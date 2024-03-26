@@ -1,0 +1,531 @@
+[2024-03-13 10:59:33,044] [drone_actions] INFO Overall state 0: Normal
+[2024-03-13 10:59:34,046] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 10:59:34,046] [drone_actions] INFO Overall State 0: Normal
+[2024-03-13 10:59:34,046] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-13 10:59:35,047] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-13 10:59:35,047] [drone_actions] INFO Overall State 0: Normal
+[2024-03-13 10:59:35,047] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 10:59:36,049] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 10:59:36,049] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 10:59:36,050] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-13 10:59:37,049] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 10:59:37,049] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 10:59:37,051] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 10:59:38,052] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 10:59:38,053] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 10:59:38,053] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 10:59:39,051] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 10:59:39,052] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 10:59:39,054] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 10:59:40,055] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 10:59:41,054] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 10:59:41,054] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 10:59:41,057] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 10:59:41,057] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 10:59:41,058] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-13 10:59:42,059] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 10:59:43,058] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 10:59:43,059] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 10:59:43,061] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 10:59:44,062] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 10:59:45,062] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-13 10:59:45,062] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 10:59:45,063] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 10:59:46,066] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 10:59:46,067] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 10:59:46,067] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 10:59:47,065] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 10:59:47,065] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 10:59:47,069] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 10:59:48,071] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 10:59:49,067] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-13 10:59:49,067] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 10:59:49,072] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 10:59:49,073] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 10:59:49,073] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-13 10:59:50,074] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 10:59:51,069] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 10:59:51,069] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 10:59:51,075] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 10:59:51,076] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 10:59:52,078] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 10:59:53,071] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 10:59:53,079] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 10:59:54,081] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 10:59:55,074] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 10:59:55,074] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 10:59:55,075] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 10:59:55,083] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 10:59:56,085] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 10:59:56,085] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 10:59:57,077] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 10:59:57,077] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 10:59:57,077] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-13 10:59:57,088] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:19:53,500] [drone_actions] INFO Overall state 0: Normal
+[2024-03-13 11:19:54,502] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:19:54,502] [drone_actions] INFO Overall State 0: Normal
+[2024-03-13 11:19:54,502] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-13 11:19:55,503] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 11:19:55,504] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 11:19:55,504] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-13 11:19:55,505] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:19:56,507] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:19:56,508] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 11:19:57,507] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:19:57,507] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:19:57,516] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 11:19:57,516] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:19:58,518] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:19:58,518] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:19:59,518] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-13 11:19:59,519] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:19:59,520] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:00,522] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:01,521] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:20:01,521] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:20:01,524] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:01,524] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:01,524] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-13 11:20:02,526] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:03,524] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 11:20:03,525] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:03,533] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:04,536] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:05,527] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-13 11:20:05,528] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:05,537] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:06,539] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:06,539] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:07,531] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:20:07,531] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:20:07,532] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 11:20:07,541] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:08,543] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:09,535] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:20:09,546] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:20:09,547] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:20:10,548] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:20:11,537] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-13 11:20:11,537] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:11,537] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-13 11:20:11,550] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:20:11,550] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:12,552] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:20:13,540] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-13 11:20:13,541] [drone_actions] INFO Overall State 0: Normal
+[2024-03-13 11:20:13,541] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-13 11:20:13,553] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:20:37,894] [drone_actions] INFO Overall state 0: Normal
+[2024-03-13 11:20:38,897] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:20:38,897] [drone_actions] INFO Overall State 0: Normal
+[2024-03-13 11:20:38,897] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-13 11:20:39,897] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-13 11:20:39,898] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:39,898] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-13 11:20:39,898] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:20:40,900] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:20:40,900] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:41,900] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-13 11:20:41,901] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:20:42,903] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:42,903] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:43,902] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:20:43,903] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:20:43,903] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 11:20:43,904] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:44,906] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:45,905] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:20:45,907] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:45,907] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:45,907] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-13 11:20:46,907] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:47,908] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-13 11:20:47,908] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:47,909] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:48,911] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:49,910] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-13 11:20:49,912] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:20:50,914] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:50,914] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:20:50,915] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 11:20:51,913] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 11:20:51,914] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:20:51,917] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:52,918] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:20:53,916] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-13 11:20:53,917] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:20:53,920] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:20:53,920] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 11:20:53,921] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-13 11:20:54,923] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:20:55,919] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 11:20:55,919] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 11:20:55,925] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:20:55,925] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 11:20:56,928] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:20:57,921] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-13 11:20:57,922] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:20:57,922] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-13 11:20:57,929] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:20:58,931] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:20:59,923] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-13 11:20:59,932] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:21:00,933] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:21:00,934] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:21:01,926] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 11:21:01,927] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 11:21:01,928] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-13 11:21:01,935] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:21:02,937] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:21:02,938] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:21:02,938] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 11:21:03,930] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:21:03,931] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:21:03,939] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:21:04,941] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:21:05,933] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 11:21:05,934] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:21:05,942] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:21:05,942] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:21:05,943] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-13 11:21:06,943] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:21:07,937] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:21:07,937] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:21:07,945] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:21:08,947] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:21:09,940] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:21:09,948] [drone_actions] INFO Battery State 3: Critical
+[2024-03-13 11:21:10,950] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:21:10,950] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:21:10,950] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 11:21:11,942] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-13 11:21:11,942] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:21:11,942] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-13 11:21:11,953] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:21:12,954] [drone_actions] INFO Battery State 2: Severe
+[2024-03-13 11:21:13,943] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-13 11:21:13,955] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:21:13,955] [drone_actions] INFO Overall State 3: Critical
+[2024-03-13 11:21:14,957] [drone_actions] INFO Battery State 1: Mild
+[2024-03-13 11:21:15,945] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-13 11:21:15,945] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 11:21:15,945] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-13 11:21:15,960] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:21:15,960] [drone_actions] INFO Overall State 1: Mild
+[2024-03-13 11:21:16,971] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:21:17,948] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-13 11:21:17,948] [drone_actions] INFO Overall State 2: Severe
+[2024-03-13 11:21:17,949] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-13 11:21:17,972] [drone_actions] INFO Battery State 0: Normal
+[2024-03-13 11:21:18,974] [drone_actions] INFO Battery State 0: Normal
+[2024-03-14 14:06:31,241] [drone_actions] INFO Overall state 0: Normal
+[2024-03-14 14:06:32,243] [drone_actions] INFO Battery State 0: Normal
+[2024-03-14 14:06:32,243] [drone_actions] INFO Overall State 0: Normal
+[2024-03-14 14:06:32,243] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-14 14:06:33,244] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-14 14:06:33,244] [drone_actions] INFO Overall State 1: Mild
+[2024-03-14 14:06:33,244] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-14 14:06:33,245] [drone_actions] INFO Battery State 0: Normal
+[2024-03-14 14:06:34,246] [drone_actions] INFO Battery State 1: Mild
+[2024-03-14 14:06:34,246] [drone_actions] INFO Overall State 1: Mild
+[2024-03-14 14:06:35,246] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-14 14:06:35,247] [drone_actions] INFO Battery State 1: Mild
+[2024-03-14 14:06:36,249] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:06:36,249] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:06:36,249] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-14 14:06:37,249] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-14 14:06:37,249] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:06:37,250] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:06:38,252] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:06:39,252] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-14 14:06:39,253] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:06:39,254] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:06:39,254] [drone_actions] INFO Overall State 3: Critical
+[2024-03-14 14:06:39,255] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-14 14:06:40,257] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:06:41,256] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-14 14:06:41,257] [drone_actions] INFO Overall State 3: Critical
+[2024-03-14 14:06:41,258] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:06:42,260] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:06:43,260] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-14 14:06:43,261] [drone_actions] INFO Overall State 3: Critical
+[2024-03-14 14:06:43,261] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:06:44,264] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:06:44,265] [drone_actions] INFO Overall State 3: Critical
+[2024-03-14 14:06:45,262] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-14 14:06:45,263] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:06:45,264] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-14 14:06:45,266] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:06:46,268] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:06:47,267] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-14 14:06:47,268] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:06:47,270] [drone_actions] INFO Battery State 1: Mild
+[2024-03-14 14:06:47,271] [drone_actions] INFO Overall State 1: Mild
+[2024-03-14 14:06:47,271] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-14 14:33:25,312] [drone_actions] INFO Overall state 0: Normal
+[2024-03-14 14:33:26,314] [drone_actions] INFO Battery State 0: Normal
+[2024-03-14 14:33:26,314] [drone_actions] INFO Overall State 0: Normal
+[2024-03-14 14:33:26,314] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-14 14:33:27,315] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-14 14:33:27,315] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:33:27,316] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-14 14:33:27,316] [drone_actions] INFO Battery State 0: Normal
+[2024-03-14 14:33:28,318] [drone_actions] INFO Battery State 1: Mild
+[2024-03-14 14:33:28,319] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:33:29,318] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-14 14:33:29,320] [drone_actions] INFO Battery State 1: Mild
+[2024-03-14 14:33:30,322] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:33:30,322] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:33:31,321] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-14 14:33:31,322] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:33:31,323] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:33:32,324] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:33:33,325] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-14 14:33:33,326] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:33:33,327] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:33:33,327] [drone_actions] INFO Overall State 3: Critical
+[2024-03-14 14:33:33,328] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-14 14:33:34,329] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:33:35,329] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-14 14:33:35,331] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:33:36,333] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:33:37,331] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-14 14:33:37,335] [drone_actions] INFO Battery State 3: Critical
+[2024-03-14 14:33:38,337] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:33:38,337] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:33:38,337] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-14 14:33:39,333] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-14 14:33:39,334] [drone_actions] INFO Overall State 2: Severe
+[2024-03-14 14:33:39,339] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:33:40,341] [drone_actions] INFO Battery State 2: Severe
+[2024-03-14 14:33:41,337] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-14 14:33:41,342] [drone_actions] INFO Battery State 1: Mild
+[2024-03-14 14:33:41,342] [drone_actions] INFO Overall State 1: Mild
+[2024-03-14 14:33:41,342] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-14 14:33:42,344] [drone_actions] INFO Battery State 1: Mild
+[2024-03-14 14:33:43,340] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-14 14:33:43,341] [drone_actions] INFO Overall State 3: Critical
+[2024-03-14 14:33:43,341] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-14 14:33:43,346] [drone_actions] INFO Battery State 0: Normal
+[2024-03-14 14:33:43,346] [drone_actions] INFO Overall State 3: Critical
+[2024-03-20 15:42:41,366] [drone_actions] INFO Overall state 0: Normal
+[2024-03-20 15:42:42,367] [drone_actions] INFO Battery State 0: Normal
+[2024-03-20 15:42:42,367] [drone_actions] INFO Overall State 0: Normal
+[2024-03-20 15:42:42,367] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-20 15:42:43,368] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-20 15:42:43,368] [drone_actions] INFO Overall State 1: Mild
+[2024-03-20 15:42:43,369] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-20 15:42:43,370] [drone_actions] INFO Battery State 0: Normal
+[2024-03-20 15:42:44,372] [drone_actions] INFO Battery State 1: Mild
+[2024-03-20 15:42:44,372] [drone_actions] INFO Overall State 1: Mild
+[2024-03-20 15:42:45,371] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-20 15:42:45,371] [drone_actions] INFO Overall State 3: Critical
+[2024-03-20 15:42:45,371] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-20 15:42:45,374] [drone_actions] INFO Battery State 1: Mild
+[2024-03-20 15:42:46,375] [drone_actions] INFO Battery State 2: Severe
+[2024-03-20 15:42:46,376] [drone_actions] INFO Overall State 3: Critical
+[2024-03-20 15:42:47,372] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-20 15:42:47,372] [drone_actions] INFO Overall State 2: Severe
+[2024-03-20 15:42:47,372] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-20 15:42:47,377] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:22:59,573] [drone_actions] INFO Overall state 0: Normal
+[2024-03-21 15:23:00,575] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:00,575] [drone_actions] INFO Overall State 0: Normal
+[2024-03-21 15:23:00,575] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-21 15:23:01,576] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-21 15:23:01,577] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:01,578] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-21 15:23:01,578] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:02,581] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:23:02,581] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:03,581] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-21 15:23:03,582] [drone_actions] INFO Overall State 1: Mild
+[2024-03-21 15:23:03,582] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-21 15:23:03,583] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:23:04,585] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:04,586] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:04,586] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-21 15:23:05,583] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-21 15:23:05,587] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:06,589] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:07,586] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-21 15:23:07,587] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:07,587] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-21 15:23:07,591] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:07,592] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:08,594] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:09,589] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-21 15:23:09,589] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:09,596] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:10,598] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:11,592] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-21 15:23:11,592] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:11,599] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:12,602] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:12,603] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:12,612] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-21 15:23:13,595] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-21 15:23:13,596] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:13,613] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:14,615] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:15,598] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-21 15:23:15,618] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:23:15,618] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:16,621] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:23:17,600] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-21 15:23:17,600] [drone_actions] INFO Overall State 1: Mild
+[2024-03-21 15:23:17,600] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-21 15:23:17,622] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:17,622] [drone_actions] INFO Overall State 0: Normal
+[2024-03-21 15:23:17,622] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-21 15:23:18,625] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:19,603] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-21 15:23:19,626] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:20,629] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:21,606] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-21 15:23:21,606] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:21,606] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-21 15:23:21,631] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:22,633] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:23:22,633] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:23,609] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-21 15:23:23,610] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:23,610] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-21 15:23:23,635] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:23:24,638] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:24,639] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:25,612] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-21 15:23:25,612] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:25,650] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:26,651] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:27,614] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-21 15:23:27,614] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:27,653] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:27,653] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:27,653] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-21 15:23:28,655] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:29,617] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-21 15:23:29,618] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:29,656] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:30,658] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:31,620] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-21 15:23:31,620] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:31,660] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:23:32,663] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:32,664] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:32,665] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-21 15:23:33,623] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-21 15:23:33,666] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:34,668] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:23:35,627] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-21 15:23:35,627] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:35,628] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-21 15:23:35,670] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:23:35,670] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:23:36,672] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:23:37,632] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-21 15:23:37,633] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:37,634] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-21 15:23:37,674] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:37,675] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:38,677] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:39,637] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-21 15:23:39,637] [drone_actions] INFO Overall State 1: Mild
+[2024-03-21 15:23:39,638] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-21 15:23:39,678] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:40,681] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:41,641] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-21 15:23:41,642] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:41,642] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-21 15:23:41,682] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:23:42,685] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:23:42,685] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:23:43,646] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-21 15:23:43,647] [drone_actions] INFO Overall State 1: Mild
+[2024-03-21 15:23:43,647] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-21 15:23:43,687] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:25:34,874] [drone_actions] INFO Overall state 0: Normal
+[2024-03-21 15:25:35,875] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:25:35,875] [drone_actions] INFO Overall State 0: Normal
+[2024-03-21 15:25:35,875] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-21 15:25:36,875] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-21 15:25:36,876] [drone_actions] INFO Overall State 1: Mild
+[2024-03-21 15:25:36,876] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-21 15:25:36,876] [drone_actions] INFO Battery State 0: Normal
+[2024-03-21 15:25:37,878] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:25:37,879] [drone_actions] INFO Overall State 1: Mild
+[2024-03-21 15:25:38,879] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-21 15:25:38,880] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:25:38,880] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-21 15:25:38,881] [drone_actions] INFO Battery State 1: Mild
+[2024-03-21 15:25:39,883] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:25:39,884] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:25:40,883] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-21 15:25:40,884] [drone_actions] INFO Overall State 2: Severe
+[2024-03-21 15:25:40,886] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:25:41,888] [drone_actions] INFO Battery State 2: Severe
+[2024-03-21 15:25:42,886] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-21 15:25:42,890] [drone_actions] INFO Battery State 3: Critical
+[2024-03-21 15:25:42,891] [drone_actions] INFO Overall State 3: Critical
+[2024-03-21 15:25:42,891] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-26 11:06:29,937] [drone_actions] INFO Overall state 0: Normal
+[2024-03-26 11:06:30,940] [drone_actions] INFO Battery State 0: Normal
+[2024-03-26 11:06:30,940] [drone_actions] INFO Overall State 0: Normal
+[2024-03-26 11:06:30,940] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-26 11:06:31,940] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-26 11:06:31,941] [drone_actions] INFO Overall State 2: Severe
+[2024-03-26 11:06:31,942] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-26 11:06:31,942] [drone_actions] INFO Battery State 0: Normal
+[2024-03-26 11:06:32,945] [drone_actions] INFO Battery State 1: Mild
+[2024-03-26 11:06:32,945] [drone_actions] INFO Overall State 2: Severe
+[2024-03-26 11:06:33,944] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-26 11:06:33,947] [drone_actions] INFO Battery State 1: Mild
+[2024-03-26 11:06:34,949] [drone_actions] INFO Battery State 2: Severe
+[2024-03-26 11:06:34,949] [drone_actions] INFO Overall State 2: Severe
+[2024-03-26 11:06:35,947] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-26 11:06:35,950] [drone_actions] INFO Battery State 2: Severe
+[2024-03-26 11:06:36,952] [drone_actions] INFO Battery State 2: Severe
+[2024-03-26 11:06:37,950] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-26 11:06:37,951] [drone_actions] INFO Overall State 3: Critical
+[2024-03-26 11:06:37,951] [drone_actions] INFO [31mAction: Emergency landing is advised[0m
+[2024-03-26 11:06:37,953] [drone_actions] INFO Battery State 3: Critical
+[2024-03-26 11:06:37,954] [drone_actions] INFO Overall State 3: Critical
+[2024-03-26 11:06:38,956] [drone_actions] INFO Battery State 3: Critical
+[2024-03-26 11:06:39,953] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-26 11:06:39,953] [drone_actions] INFO Overall State 3: Critical
+[2024-03-26 11:06:39,957] [drone_actions] INFO Battery State 3: Critical
+[2024-03-26 11:06:40,958] [drone_actions] INFO Battery State 3: Critical
+[2024-03-26 11:06:41,956] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-26 11:06:41,956] [drone_actions] INFO Overall State 3: Critical
+[2024-03-26 11:06:41,959] [drone_actions] INFO Battery State 3: Critical
+[2024-03-26 11:06:42,960] [drone_actions] INFO Battery State 2: Severe
+[2024-03-26 11:06:42,961] [drone_actions] INFO Overall State 3: Critical
+[2024-03-26 11:06:43,959] [drone_actions] INFO Sensor Anomaly State 3: Critical
+[2024-03-26 11:06:43,962] [drone_actions] INFO Battery State 2: Severe
+[2024-03-26 11:06:44,964] [drone_actions] INFO Battery State 2: Severe
+[2024-03-26 11:06:45,961] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-26 11:06:45,962] [drone_actions] INFO Overall State 2: Severe
+[2024-03-26 11:06:45,962] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-26 11:06:45,966] [drone_actions] INFO Battery State 1: Mild
+[2024-03-26 11:06:45,966] [drone_actions] INFO Overall State 2: Severe
+[2024-03-26 11:06:46,968] [drone_actions] INFO Battery State 1: Mild
+[2024-03-26 11:06:47,965] [drone_actions] INFO Sensor Anomaly State 1: Mild
+[2024-03-26 11:06:47,966] [drone_actions] INFO Overall State 1: Mild
+[2024-03-26 11:06:47,967] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-26 11:06:47,970] [drone_actions] INFO Battery State 0: Normal
+[2024-03-26 11:06:47,970] [drone_actions] INFO Overall State 1: Mild
+[2024-03-26 11:57:11,911] [drone_actions] INFO Overall state 0: Normal
+[2024-03-26 11:57:12,913] [drone_actions] INFO Battery State 0: Normal
+[2024-03-26 11:57:12,914] [drone_actions] INFO Overall State 0: Normal
+[2024-03-26 11:57:12,914] [drone_actions] INFO [92mAction: Continue mission[0m
+[2024-03-26 11:57:13,914] [drone_actions] INFO Sensor Anomaly State 2: Severe
+[2024-03-26 11:57:13,914] [drone_actions] INFO Overall State 2: Severe
+[2024-03-26 11:57:13,915] [drone_actions] INFO [91mAction: Plan to return to home immediately[0m
+[2024-03-26 11:57:13,916] [drone_actions] INFO Battery State 0: Normal
+[2024-03-26 11:57:14,918] [drone_actions] INFO Battery State 1: Mild
+[2024-03-26 11:57:14,919] [drone_actions] INFO Overall State 2: Severe
+[2024-03-26 11:57:15,918] [drone_actions] INFO Sensor Anomaly State 0: Normal
+[2024-03-26 11:57:15,919] [drone_actions] INFO Overall State 1: Mild
+[2024-03-26 11:57:15,919] [drone_actions] INFO [93mAction: Consider returning to home soon[0m
+[2024-03-26 11:57:15,920] [drone_actions] INFO Battery State 1: Mild
